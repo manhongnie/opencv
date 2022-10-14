@@ -11,16 +11,16 @@ OpenCV DNN:[人脸识别](https://t.zsxq.com/uZB2BqZ )<br>
 
 ---
 
-OpenCV-day-001. [图像读取与显示](https://t.zsxq.com/auvvV3f );
-OpenCV-day-002. [图像色彩空间转换](https://t.zsxq.com/rrvNnI2 );
-OpenCV-day-003. [图像对象的创建与赋值](https://t.zsxq.com/YjM3BUV );
-OpenCV-day-004. [图像像素的读写操作](https://t.zsxq.com/Ybyb2bU );
-OpenCV-day-005. [图像像素的算术操作](https://t.zsxq.com/u3Jam6y );
-OpenCV-day-006. [LUT的作用与用法](https://t.zsxq.com/7yBEaIe );
-OpenCV-day-007. [图像像素的逻辑操作](https://t.zsxq.com/ZbYnmMJ );
-OpenCV-day-008. [通道分离与合并](https://t.zsxq.com/qZfQzf2 );
-OpenCV-day-009. [图像色彩空间转换](https://t.zsxq.com/M3zVbaQ );
-OpenCV-day-010. [图像像素值统计](https://t.zsxq.com/2vJYzRv );
+OpenCV-day-001. [图像读取与显示](https://t.zsxq.com/auvvV3f )<br>
+OpenCV-day-002. [图像色彩空间转换](https://t.zsxq.com/rrvNnI2 )<br>
+OpenCV-day-003. [图像对象的创建与赋值](https://t.zsxq.com/YjM3BUV )<br>
+OpenCV-day-004. [图像像素的读写操作](https://t.zsxq.com/Ybyb2bU )<br>
+OpenCV-day-005. [图像像素的算术操作](https://t.zsxq.com/u3Jam6y )<br>
+OpenCV-day-006. [LUT的作用与用法](https://t.zsxq.com/7yBEaIe )<br>
+OpenCV-day-007. [图像像素的逻辑操作](https://t.zsxq.com/ZbYnmMJ )<br>
+OpenCV-day-008. [通道分离与合并](https://t.zsxq.com/qZfQzf2 )<br>
+OpenCV-day-009. [图像色彩空间转换](https://t.zsxq.com/M3zVbaQ )<br>
+OpenCV-day-010. [图像像素值统计](https://t.zsxq.com/2vJYzRv )<br>
 OpenCV-day-011. [像素归一化](https://t.zsxq.com/UZnUrfm )<br>
 OpenCV-day-012. [视频文件的读写](https://t.zsxq.com/NBYzNJq )<br>
 OpenCV-day-013. [图像翻转](https://t.zsxq.com/BQ7EmUj )<br>
